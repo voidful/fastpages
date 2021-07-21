@@ -1,1 +1,1 @@
-Sitemap: https://voidful.github.io/fastpages/sitemap.xml
+Sitemap: https://voidful.dev/fastpages/sitemap.xml
